@@ -1,1 +1,1 @@
-echo"jenkins run succesfully"
+echo"jenkins rebuilt succesfully by me"
